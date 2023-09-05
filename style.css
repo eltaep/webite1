@@ -638,3 +638,11 @@ font-size: 14px;
     color: #f16128;
     padding: 0 10px;
 }
+.end p {
+    /* padding: 0 10px;  */
+    font-size: 14px;
+    line-height: 2;
+}
+.end span{
+    color: #f16128;
+}
